@@ -19,7 +19,8 @@ class OutdatedSubState extends MusicBeatState
 		var bg:FlxSprite = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
 		add(bg);
 		var txt:FlxText = new FlxText(0, 0, FlxG.width,
-			"This mod is based off of the game Like A Dino\n"
+			"This mod should only be available via gamebanana. If you are playing this online, please play the real version\n"
+			+ "This mod is based off of the game Like A Dino\n"
 			+ "Press enter to be taken to the game's store page, or press escape to continue! "
 			+ "\n I hope you enjoy my mod! - PlasmaOJ15",
 			32);

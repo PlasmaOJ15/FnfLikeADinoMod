@@ -18,3 +18,6 @@ Senpai:senpai:6
 Roses:senpai:6
 Thorns:spirit:6
 Like-a-dino:dino:7
+Ok-to-not-be-ok:dino:7
+So-sweet:dino:7
+You-made-my-day:dino:7

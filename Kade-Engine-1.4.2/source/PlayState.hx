@@ -576,7 +576,7 @@ class PlayState extends MusicBeatState
 					var street:FlxSprite = new FlxSprite(-40, streetBehind.y).loadGraphic(Paths.image('philly/street'));
 						add(street);
 			}
-			case 'like-a-dino': 
+			case 'like-a-dino' | 'ok-to-not-be-ok' | 'so-sweet' | 'you-made-my-day': 
 					{
 					defaultCamZoom = 0.9;
 					curStage = 'dino';
